@@ -14,6 +14,16 @@
 * 주요 기술 스택: React, Github
 
 # TO-DO
+## Next-blog
+* fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 4
+* Next.js로 블로그 만들기
+* 주요 기술 스택: Next.js, TypeScript
+
+## Next-secondhand
+* fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 5
+* Next.js로 중고마켓 만들기
+* 주요 기술 스택: Next.js, TypeScript, Prisma, NextAuth.js
+
 ## React-twitter
 * fastcampus "고성능 대규모 프론트엔드 10개 프로젝트: 최적화부터 유지보수까지 한 번에 끝내는 초격차 패키지 Online" Course 1 Part 3 트위터 앱 프로젝트
 * 주요 기술 스택: React, SASS, Recoil, Firebase, JS
