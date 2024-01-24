@@ -1,23 +1,28 @@
 # React-study
+## [Next-blog](https://github.com/minju-kim98/react-study/tree/main/next-blog)
+* fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 4
+* Next.js로 블로그 만들기
+* 주요 기술 스택: Next.js, TypeScript
+* Working...
+
 ## [React-blog](https://github.com/minju-kim98/react-study/tree/main/react-blog)
 * fastcampus "고성능 대규모 프론트엔드 10개 프로젝트: 최적화부터 유지보수까지 한 번에 끝내는 초격차 패키지 Online" Course 1 Part 2 블로그 앱 프로젝트
 * 주요 기술 스택: React, CSS, Firebase, JS
+* Working...
 
 ## [React-disney-plus](https://github.com/minju-kim98/react-study/tree/main/react-disney-plus)
 * fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 2
 * react로 실제 서비스 만들어보기
 * 주요 기술 스택: React, Styled Components, Firebase
+* Done
 
 ## [React-tictactoe](https://github.com/minju-kim98/react-study/tree/main/react-tictactoe)
 * fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 1
 * react 기초 익히기
 * 주요 기술 스택: React, Github
+* Done
 
 # TO-DO
-## Next-blog
-* fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 4
-* Next.js로 블로그 만들기
-* 주요 기술 스택: Next.js, TypeScript
 
 ## Next-secondhand
 * fastcampus "프론트엔드 웹 개발의 모든 것 초격차 패키지 Online" Course 2 Part 5
