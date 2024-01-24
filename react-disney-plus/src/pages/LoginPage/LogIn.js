@@ -3,7 +3,6 @@ import styled from "styled-components";
 import "./LogIn.css";
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
-import App from "../../App";
 import {
   getAuth,
   signInWithEmailAndPassword,
@@ -22,7 +21,7 @@ const LogIn = () => {
   const onSubmit = async (e) => {
     e.preventDefault();
     try {
-      const auth = getAuth(App);
+      const auth = getAuth();
       await signInWithEmailAndPassword(auth, email, password);
 
       toast.success("로그인에 성공했습니다.");

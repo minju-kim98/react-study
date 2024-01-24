@@ -3,7 +3,6 @@ import styled from "styled-components";
 import "./Signup.css";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import App from "../../App";
 import {
   getAuth,
   createUserWithEmailAndPassword,
@@ -23,7 +22,7 @@ const Signup = () => {
   const onSubmit = async (e) => {
     e.preventDefault();
     try {
-      const auth = getAuth(App);
+      const auth = getAuth();
       await createUserWithEmailAndPassword(auth, email, password);
       toast.success("회원가입에 성공했습니다.");
       navigate("/main");
