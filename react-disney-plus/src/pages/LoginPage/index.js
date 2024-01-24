@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import "./style.css";
+import 'react-toastify/dist/ReactToastify.css'
 
 const LoginPage = () => {
   return (

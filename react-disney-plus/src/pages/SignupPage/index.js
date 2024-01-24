@@ -25,7 +25,6 @@ const Signup = () => {
     try {
       const auth = getAuth(App);
       await createUserWithEmailAndPassword(auth, email, password);
-
       toast.success("회원가입에 성공했습니다.");
       navigate("/main");
     } catch (error) {

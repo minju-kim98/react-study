@@ -7,7 +7,6 @@ import SearchPage from "./pages/SearchPage";
 import DetailPage from "./pages/DetailPage";
 import LogIn from "./pages/LoginPage/LogIn";
 import Signup from "./pages/SignupPage";
-import { ToastContainer, toast } from "react-toastify";
 
 const Layout = () => {
   return (
@@ -22,7 +21,6 @@ function App() {
   return (
     <>
       <div className="app">
-        <ToastContainer />
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<LoginPage />} />
