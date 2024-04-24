@@ -56,6 +56,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:18.2.0"],\
           ["react-infinite-scroll-component", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:6.1.0"],\
+          ["react-intersection-observer", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:9.8.2"],\
           ["react-query", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:3.39.3"],\
           ["react-router-dom", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:6.22.3"],\
           ["react-scripts", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:5.0.1"],\
@@ -17273,6 +17274,32 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["react-intersection-observer", [\
+      ["npm:9.8.2", {\
+        "packageLocation": "./.yarn/cache/react-intersection-observer-npm-9.8.2-47932f421f-892c56333b.zip/node_modules/react-intersection-observer/",\
+        "packageDependencies": [\
+          ["react-intersection-observer", "npm:9.8.2"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:9.8.2", {\
+        "packageLocation": "./.yarn/__virtual__/react-intersection-observer-virtual-54e00ca8de/0/cache/react-intersection-observer-npm-9.8.2-47932f421f-892c56333b.zip/node_modules/react-intersection-observer/",\
+        "packageDependencies": [\
+          ["react-intersection-observer", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:9.8.2"],\
+          ["@types/react", "npm:18.2.79"],\
+          ["@types/react-dom", "npm:18.2.25"],\
+          ["react", "npm:18.2.0"],\
+          ["react-dom", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["react-is", [\
       ["npm:16.13.1", {\
         "packageLocation": "./.yarn/cache/react-is-npm-16.13.1-a9b9382b4f-33977da7a5.zip/node_modules/react-is/",\
@@ -17331,6 +17358,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:18.2.0"],\
           ["react-infinite-scroll-component", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:6.1.0"],\
+          ["react-intersection-observer", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:9.8.2"],\
           ["react-query", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:3.39.3"],\
           ["react-router-dom", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:6.22.3"],\
           ["react-scripts", "virtual:a358fbfee65f381de2285b345e904a9a884384ae8cb8391d2174e5bf58ab2dbb0542b68887f4318fe1879a3bd84763ef12e5ec4f24f376c1e15f15632cac488c#npm:5.0.1"],\
